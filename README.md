@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AishwaryaMoonlight
-- 👀 I’m interested in technology and science
+- 👋 Hi, I’m Aishwarya
+- 👀 I’m interested in technology, computers, mathematics, commerce/business/economics and science
 - 🌱 I’m currently an school student
-- 💞️ I’m looking to collaborate on space ideas
+- 💞️ I’m looking to collaborate on space and programming ideas
 
 <!---
 AishwaryaMoonlight/AishwaryaMoonlight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
